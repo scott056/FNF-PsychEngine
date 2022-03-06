@@ -34,6 +34,8 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 * CrazedMuffin - Sprite and BG artists
 * Milkman74 - Cover maker
 * skykid - Musician
+
+
 Thank you for everyone who worked on this mod!
 
 
