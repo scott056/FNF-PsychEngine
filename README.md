@@ -28,7 +28,7 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 * HollyBlu - Sprite animator
 * NV96 - Musician
 * RedTheWolf - Mod creator and sprite artist
-* Scotty2Hotty - Coder, musician (Vocalist), animator and charter
+* Scotty2Hotty - Coder, Sprite animator and charter
 * MrSleepyBedTime - Voice actor for GF
 * Auezy - Menu Composter
 * CrazedMuffin - Sprite and BG artists
