@@ -30,7 +30,7 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 * RedTheWolf - Mod Creator & Sprite Artist
 * Scotty2Hotty - Coder, Sprite Animator & Charter
 * MrSleepyBedTime - Voice Actor for GF
-* Auezy - Menu Composter
+* Auezy - Menu Composer
 * CrazedMuffin - Sprite and BG Artists
 * Milkman74 - Cover Maker
 * Skykid - Musician
