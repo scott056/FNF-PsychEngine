@@ -32,7 +32,6 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 * MrSleepyBedTime - Voice Actor for GF
 * Auezy - Menu Composer
 * CrazedMuffin - Sprite and BG Artists
-* Starstone - Cover Maker
 * Skykid - Musician
 * Afeefflox - Cover Maker
 * VespilloSanctus - Menu Customizer
