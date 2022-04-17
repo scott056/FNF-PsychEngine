@@ -35,6 +35,8 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 * Skykid - Musician
 * Afeefflox - Cover Maker
 * VespilloSanctus - Menu Customizer
+* Baloby - Voice Actor for Reggy
+* MuffinNotFound - Sprite Artist 
 
 
 Thank you for everyone who worked on this mod!
