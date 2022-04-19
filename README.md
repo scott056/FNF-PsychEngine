@@ -25,20 +25,19 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 * Cary - OG Resolution code
 * Nebula_Zorua - VCR Shader code
 ### Reggy Mod Team
-* HollyBlu - Sprite Animator
-* NV - Musician & Charter
 * RedTheWolf - Mod Creator & Sprite Artist
-* Scotty2Hotty - Coder, Sprite Animator & Charter
-* MrSleepyBedTime - Voice Actor for GF
-* Auezy - Menu Composer
+* Scotty2Hotty - Coder & Charter
+* MuffinNotFound - Sprite Artist
 * CrazedMuffin - Sprite and BG Artists
+* HollyBlu - Sprite Animator
+* Nick - Sprite Animator
 * Skykid - Musician
+* NV - Musician & Charter
 * Afeefflox - Cover Maker
+* Auezy - Menu Composer
 * VespilloSanctus - Menu Customizer
 * Baloby - Voice Actor for Reggy
-* MuffinNotFound - Sprite Artist
-* Nick - Sprite Animator 
-
+* MrSleepyBedTime - Voice Actor for GF
 
 Thank you for everyone who worked on this mod!
 
