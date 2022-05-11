@@ -26,11 +26,11 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 * Nebula_Zorua - VCR Shader code
 ### Reggy Mod Team
 * RedTheWolf - Mod Creator & Sprite Artist
+* Keilwo - Coder
 * Scotty2Hotty - Coder & Charter
 * MuffinNotFound - Sprite Artist
 * CrazedMuffin - Sprite and BG Artists
 * HollyBlu - Sprite Animator
-* Nick - Sprite Animator
 * Skykid - Musician
 * NV - Musician & Charter
 * Afeefflox - Cover Maker
