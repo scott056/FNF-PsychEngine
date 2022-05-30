@@ -27,9 +27,9 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 ### Reggy Mod Team
 * RedTheWolf - Mod Creator & Sprite Artist
 * Keilwo - Coder
-* Scotty2Hotty - Coder & Charter
-* MuffinNotFound - Sprite Artist
-* CrazedMuffin - Sprite and BG Artists
+* Scotty2Hotty - Coder, Animator & Charter
+* Milimann01 - Sprite Artist
+* CrazedMuffin - BG Artist
 * HollyBlu - Sprite Animator
 * Skykid - Musician
 * NV - Musician & Charter
